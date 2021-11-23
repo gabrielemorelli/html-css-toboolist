@@ -5,8 +5,14 @@
 
 /**inizio header**/
 
-.title{
-color: rgb(5, 5, 105);
-font-size: 50px;
+#logo{
+vertical-align: middle;
 }
 
+.logo-title{
+color: rgb(5, 5, 105);
+font-size: 40px;
+vertical-align: middle;
+font-weight: bold;
+}
+/**fine header**/
